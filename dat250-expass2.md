@@ -13,7 +13,7 @@ And then creating a JoinTable where I specified join colum and
 inverse join columns
 
 ### Link
-(Link)[expass2/]
+[Link](expass2/)
 
 ### Database
 Inspected the database by using IntelliJ's Database tool. Which 
