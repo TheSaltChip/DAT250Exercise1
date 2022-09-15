@@ -28,7 +28,7 @@ List of created tables
 - PERSON_CREDITCARD
 - PINCODE
 
-[[expass2/dat250-jpa-example/pictures/VisualizationOfSchema.png]]
+[[test](expass2/dat250-jpa-example/pictures/VisualizationOfSchema.png)]
 
 ### Pending issues
 None
