@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/expass2/dat250-jpa-example/eclipselink/experiment-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/expass2/dat250-jpa-example/eclipselink/experiment-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/expass2/dat250-jpa-example/eclipselink/experiment-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/expass2/dat250-jpa-example/eclipselink/experiment-2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/expass4/dat250-sparkjava-counter/counters/counters/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/expass4/dat250-sparkjava-counter/counters/counters/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/expass4/dat250-sparkjava-counter/todos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/expass4/dat250-sparkjava-counter/todos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/expass6/SpringMVCGuide/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/expass6/SpringMVCGuide/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<button class="refresh" (click)="showTodos()">Refresh</button>
+<table>
+  <tr>
+    <th>Id</th>
+    <th>Description</th>
+    <th>Summary</th>
+  </tr>
+  <tr *ngFor="let todo of todos">
+    <td>{{todo.id}}</td>
+    <td>{{todo.description}}</td>
+    <td>{{todo.summary}}
+      <button (click)="deleteTodo(todo.id)">Delete</button>
+    </td>
+  </tr>
+</table>
