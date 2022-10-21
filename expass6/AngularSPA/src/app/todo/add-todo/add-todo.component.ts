@@ -1,6 +1,7 @@
 import {Component} from '@angular/core';
 import {FormBuilder} from '@angular/forms';
 import {TodoService} from "../todo.service";
+import {Todo} from "../../model/Todo";
 
 @Component({
   selector: 'app-add-todo',
@@ -19,6 +20,7 @@ export class AddTodoComponent {
 
   onSubmit(): void {
     let info = this.addForm.value;
+
     this.service.addTodo({
       id: undefined,
       summary: info.summary != undefined ? info.summary : "",

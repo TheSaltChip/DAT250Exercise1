@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/expass7/RabbitMQ/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
@@ -8,6 +11,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="experiment-2" />
+        <module name="RabbitMQ" />
         <module name="experiment-1" />
         <module name="todos" />
         <module name="counters" />
@@ -15,11 +19,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="counters" target="1.8" />
-      <module name="experiment-1" target="11" />
-      <module name="experiment-2" target="11" />
-      <module name="SpringMVCGuide" target="11" />
-      <module name="todos" target="1.8" />
+      <module name="Sender" target="18" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

@@ -4,11 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/expass6/AngularSPA.iml" filepath="$PROJECT_DIR$/expass6/AngularSPA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DAT250Expasses.iml" filepath="$PROJECT_DIR$/.idea/DAT250Expasses.iml" />
-      <module fileurl="file://$PROJECT_DIR$/expass6/SpringMVCGuide/SpringMVCGuide.iml" filepath="$PROJECT_DIR$/expass6/SpringMVCGuide/SpringMVCGuide.iml" />
-      <module fileurl="file://$PROJECT_DIR$/expass4/dat250-sparkjava-counter/counters/counters/counters.iml" filepath="$PROJECT_DIR$/expass4/dat250-sparkjava-counter/counters/counters/counters.iml" />
-      <module fileurl="file://$PROJECT_DIR$/expass2/dat250-jpa-example/eclipselink/experiment-1/experiment-1.iml" filepath="$PROJECT_DIR$/expass2/dat250-jpa-example/eclipselink/experiment-1/experiment-1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/expass2/dat250-jpa-example/eclipselink/experiment-2/experiment-2.iml" filepath="$PROJECT_DIR$/expass2/dat250-jpa-example/eclipselink/experiment-2/experiment-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/expass4/dat250-sparkjava-counter/todos/todos.iml" filepath="$PROJECT_DIR$/expass4/dat250-sparkjava-counter/todos/todos.iml" />
     </modules>
   </component>
 </project>

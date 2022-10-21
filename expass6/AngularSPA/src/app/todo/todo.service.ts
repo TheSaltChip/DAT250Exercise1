@@ -1,6 +1,5 @@
 import {Injectable} from '@angular/core';
 import {HttpClient} from '@angular/common/http';
-import * as http from "http";
 import {Todo} from "../model/Todo";
 
 @Injectable({

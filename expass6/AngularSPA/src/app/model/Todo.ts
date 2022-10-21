@@ -1,5 +1,5 @@
 export interface Todo {
   id: bigint | undefined;
-  summary: string | "";
-  description: string | "";
+  summary: string;
+  description: string;
 }
